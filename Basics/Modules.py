@@ -11,3 +11,8 @@ print(keyword.kwlist)
 #random
 import random
 print(random.randint(1, 10))
+
+#date and time
+
+import datetime
+print(datetime.datetime.now())
