@@ -9,7 +9,7 @@ for i in range (1,rows+1):
            print(j,end=" ")
     for a in range(j-1,0,-1): 
      print(a,end=" ")        
-    print()    
+    print() 
 
 
         
