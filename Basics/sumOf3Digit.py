@@ -1,3 +1,4 @@
+#input user se leina ha 
 num=int(input("Enter a 3 digit number:"))
 #this % is a modulas opertor yay last digit nikalta ha 
 a=num%10
