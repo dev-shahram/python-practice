@@ -1,1 +1,1 @@
-#how to create strings 
+#string programming in python
