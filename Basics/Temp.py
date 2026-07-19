@@ -10,3 +10,6 @@ third=math.factorial(num3)
 
 
 print(first," ", sec," ",third)
+
+
+print(first," ", sec," ",third)
