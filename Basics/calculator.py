@@ -15,4 +15,4 @@ elif operation == "/":
     result = num1 / num2
 
 print("Result:", result)
-print("thanks for using ")
+print("thanks for using my calculator")
