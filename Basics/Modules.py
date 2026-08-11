@@ -16,4 +16,4 @@ print(random.randint(1, 10))
 
 import datetime
 print(datetime.datetime.now())
-print("thats all")
+print("thats all thanks for using")
