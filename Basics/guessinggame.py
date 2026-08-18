@@ -13,4 +13,4 @@ while count<5:
         print("you found the number")
         break
 else:
-    print("out of tries")
+    print("out of tries try again")

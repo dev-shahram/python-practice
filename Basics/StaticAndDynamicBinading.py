@@ -12,4 +12,4 @@ print(type(a))
 
 #static binding:
 
-#it is in java and c++ but not in python. 
+#it is in java and c++ but not in python thats all. 
