@@ -11,6 +11,6 @@ for i in range (0, b):
             bool=False
                  
 if bool==True:
-      print ("string is pelindrome")
+      print ("string is pelindrome ")
 else:
       print("string is not pelindrome ")      
