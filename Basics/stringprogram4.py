@@ -1,5 +1,5 @@
 #find the string is pelindrome or not
-a=input("enter your sting ")
+a=input("enter your  sting ")
 
 b=len(a)
 bool=True
