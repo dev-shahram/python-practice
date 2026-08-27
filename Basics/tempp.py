@@ -1,8 +1,9 @@
-a=123
-b=a%10
-c=a//10
-d=c%10
-e=c//10
-print(b)
-print(d)
-print(e)
+list=["ali","5","ahmad","3","khan","7"]
+
+for i in list:
+    if i=="ahmad":
+        print("found ahmad at index",list.index(i))
+        break
+
+sorted_list=sorted(list)
+print("sorted list is",sorted_list)    
