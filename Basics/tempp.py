@@ -7,6 +7,6 @@ for i in list:
         break
 
 sorted_list=sorted(list)
-print("sorted list is",sorted_list)
+print("sorted  list is",sorted_list)
 
 
