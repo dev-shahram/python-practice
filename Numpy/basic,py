@@ -1,0 +1,5 @@
+import numpy as np
+
+arr = np.array([10000, 20000, 30000])
+
+print(arr * 1.10)
