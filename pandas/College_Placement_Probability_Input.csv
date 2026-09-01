@@ -1,0 +1,51 @@
+Student ID,Course,Branch,10th %,12th %,Current CGPA,Active Backlogs,Attendance %,Aptitude Score,Technical/Coding Score,Communication Score,Technical Skills,Skill Level,Projects Count,Internship,Internship Months,Certifications Count,Placement Training %,Mock Interview Score,Preferred Job Role,,,,
+STU001,Aarav Sharma,B.Tech,Information Technology,90,75.2,9.1,0,90,93,86,85,"Java, SQL",Advanced,3,Good,Yes,5,2,98,95,No,No,Data Analyst
+STU002,Priya Patil,B.E.,Mechanical Engineering,81.1,82.1,8.66,0,90,90,85,93,"SolidWorks, AutoCAD",Advanced,5,Basic,Yes,9,5,91,91,Yes,No,Design Engineer
+STU003,Rahul Verma,B.E.,Civil Engineering,74.7,71.3,7.59,0,82,71,72,71,"AutoCAD, Revit",Intermediate,3,Excellent,Yes,4,2,89,76,No,Yes,Site Engineer
+STU004,Sneha Joshi,B.Tech,Electronics,73.2,68.8,7.11,0,90,84,73,86,"C, PLC",Intermediate,4,Basic,Yes,2,3,77,77,Yes,Yes,Embedded Engineer
+STU005,Vikram Singh,BCA,Computer Applications,75.6,69.1,8.16,0,85,76,68,76,"Python, Java",Advanced,4,Good,No,0,1,89,73,Yes,Yes,Data Analyst
+STU006,Ananya Kulkarni,B.Com,Commerce,78.6,67.7,7.89,1,83,75,63,75,"Excel, Power BI",Intermediate,3,Excellent,Yes,4,1,76,86,Yes,Yes,Business Analyst
+STU007,Rohan Gupta,MBA,Finance,71,66.3,7.89,0,84,69,69,85,"Excel, Finance",Advanced,3,Basic,No,0,3,83,86,Yes,No,Business Analyst
+STU008,Neha Deshmukh,MBA,Marketing,61.8,52.7,5.86,1,69,65,45,73,"Excel, Marketing",Intermediate,2,Excellent,No,0,1,57,64,Yes,No,Marketing Analyst
+STU009,Aditya Mehta,B.Tech,Computer Engineering,68.8,63.4,6.66,2,75,48,49,65,"Java, SQL",Beginner,1,Excellent,No,0,2,68,53,Yes,Yes,Data Analyst
+STU010,Kavya Nair,B.Tech,Information Technology,80.1,72.2,8.73,0,98,91,85,84,"Python, Java, SQL",Advanced,4,Good,Yes,5,2,97,89,Yes,Yes,Software Developer
+STU011,Manish Yadav,B.E.,Mechanical Engineering,80.9,72.5,8.74,0,90,85,96,91,"SolidWorks, AutoCAD",Advanced,3,Excellent,Yes,4,5,89,96,Yes,Yes,Production Engineer
+STU012,Isha Shah,B.E.,Civil Engineering,78.3,80.3,8.69,0,96,85,96,90,"AutoCAD, Revit",Advanced,5,Good,Yes,9,3,99,88,Yes,Yes,Civil Engineer
+STU013,Siddharth Rao,B.Tech,Electronics,69.3,57.4,7.17,0,81,75,62,86,"C, PLC",Advanced,2,Basic,No,0,1,70,70,Yes,Yes,Electronics Engineer
+STU014,Pooja More,BCA,Computer Applications,69.9,68,7.1,0,84,80,68,85,"Python, Java",Intermediate,4,Basic,No,0,3,85,75,No,Yes,Software Developer
+STU015,Akash Pawar,B.Com,Commerce,64,67.5,7.49,0,87,66,83,71,"Excel, Power BI",Intermediate,3,Basic,No,0,2,73,75,Yes,Yes,Accounts Executive
+STU016,Tanvi Joshi,MBA,Finance,67.4,61.4,7.35,0,87,82,65,69,"Excel, Finance",Advanced,4,Good,Yes,2,1,75,81,Yes,No,Financial Analyst
+STU017,Kunal Shah,MBA,Marketing,59.4,58.3,7,0,84,79,71,81,"Excel, Marketing",Advanced,4,Basic,No,0,3,85,72,Yes,Yes,Sales Executive
+STU018,Meera Iyer,B.Tech,Computer Engineering,55,65.1,6.69,1,66,63,55,68,"Python, SQL, Power BI",Beginner,0,Basic,Yes,1,0,47,64,Yes,Yes,Software Developer
+STU019,Nikhil Patil,B.Tech,Information Technology,55.4,56.3,6.48,1,67,58,61,70,"Java, React, SQL",Intermediate,1,Excellent,No,0,2,67,55,Yes,Yes,Data Analyst
+STU020,Riya Desai,B.E.,Mechanical Engineering,86.8,78.8,9.42,0,91,82,89,91,"SolidWorks, AutoCAD",Advanced,5,Good,Yes,4,2,96,87,Yes,Yes,Design Engineer
+STU021,Yash Kulkarni,B.E.,Civil Engineering,77.8,81.2,8.81,0,92,89,95,90,"AutoCAD, Revit",Advanced,5,Basic,Yes,6,2,98,92,Yes,Yes,Site Engineer
+STU022,Simran Kaur,B.Tech,Electronics,87,78.9,9.22,0,92,86,86,91,"C, PLC",Advanced,3,Good,Yes,9,4,91,94,Yes,Yes,Embedded Engineer
+STU023,Omkar Jadhav,BCA,Computer Applications,65.9,62,7.07,1,86,73,63,68,"Python, Java",Intermediate,2,Basic,No,0,2,75,82,No,Yes,Data Analyst
+STU024,Aditi Rao,B.Com,Commerce,79.6,75.6,7.96,0,88,66,73,86,"Excel, Power BI",Advanced,2,Basic,Yes,3,1,79,79,Yes,No,Business Analyst
+STU025,Harsh Mehta,MBA,Finance,62.5,72,7.35,0,85,82,75,87,"Excel, Finance",Advanced,2,Good,Yes,3,1,83,68,Yes,Yes,Business Analyst
+STU026,Shreya Nair,MBA,Marketing,70.4,75.1,8.13,0,82,68,74,69,"Excel, Marketing",Intermediate,2,Good,Yes,5,2,79,75,Yes,Yes,Marketing Analyst
+STU027,Arjun Deshmukh,B.Tech,Computer Engineering,69.3,76,8.34,0,85,81,74,85,"Java, SQL, React",Intermediate,2,Good,Yes,4,1,88,76,Yes,Yes,Data Analyst
+STU028,Mansi Shah,B.Tech,Information Technology,60.6,61.5,6.52,1,77,63,46,60,"Python, SQL",Beginner,2,Excellent,No,0,0,61,70,Yes,No,Software Developer
+STU029,Saurabh Patil,B.E.,Mechanical Engineering,55,50.7,6.31,2,75,66,43,61,"SolidWorks, AutoCAD",Intermediate,2,Good,No,0,1,57,67,Yes,Yes,Production Engineer
+STU030,Diya Gupta,B.E.,Civil Engineering,80.2,86.8,9.22,0,92,91,91,86,"AutoCAD, Revit",Advanced,4,Excellent,Yes,8,2,92,88,Yes,Yes,Civil Engineer
+STU031,Abhishek Joshi,B.Tech,Electronics,84.4,81.3,8.89,0,93,90,89,94,"C, PLC",Advanced,5,Basic,Yes,5,2,92,92,Yes,Yes,Electronics Engineer
+STU032,Nandini Verma,BCA,Computer Applications,89.7,75.4,9.14,0,93,94,85,84,"Python, Java",Advanced,3,Good,Yes,4,3,95,93,Yes,Yes,Software Developer
+STU033,Varun Singh,B.Com,Commerce,78.5,74.4,8,0,87,77,69,72,"Excel, Power BI",Advanced,4,Good,Yes,2,2,77,73,No,Yes,Accounts Executive
+STU034,Snehal Pawar,MBA,Finance,80.5,73.8,8.18,0,82,79,83,84,"Excel, Finance",Advanced,4,Basic,Yes,5,3,86,81,Yes,Yes,Financial Analyst
+STU035,Raj Malhotra,MBA,Marketing,64.1,63,7.36,0,90,73,78,83,"Excel, Marketing",Advanced,2,Excellent,Yes,5,1,79,75,No,No,Sales Executive
+STU036,Komal Iyer,B.Tech,Computer Engineering,64.6,66.1,7.53,0,91,71,64,81,"Python, SQL",Intermediate,3,Excellent,No,0,2,83,69,Yes,No,Software Developer
+STU037,Dev Patel,B.Tech,Information Technology,75.4,70.1,8.22,1,86,80,62,79,"Java, SQL",Intermediate,3,Good,Yes,6,3,87,75,No,Yes,Data Analyst
+STU038,Sakshi Kulkarni,B.E.,Mechanical Engineering,63.1,53.5,6.61,3,70,59,44,71,"SolidWorks, AutoCAD",Beginner,1,Good,Yes,3,2,45,47,Yes,Yes,Design Engineer
+STU039,Aman Rao,B.E.,Civil Engineering,60.9,50,6.19,3,75,55,64,64,"AutoCAD, Revit",Intermediate,1,Good,No,0,0,60,45,Yes,No,Site Engineer
+STU040,Ishita Desai,B.Tech,Electronics,86.5,78.8,9.45,0,90,94,82,85,"C, PLC",Advanced,3,Basic,Yes,4,3,91,86,Yes,Yes,Embedded Engineer
+STU041,Pranav More,BCA,Computer Applications,83.9,85.7,8.81,0,91,94,95,84,"Python, Java",Advanced,4,Good,Yes,4,2,92,93,Yes,No,Data Analyst
+STU042,Ritika Shah,B.Com,Commerce,75.9,81.4,9.05,0,93,83,93,94,"Excel, Power BI",Advanced,4,Excellent,Yes,9,2,97,96,Yes,Yes,Business Analyst
+STU043,Mohit Jadhav,MBA,Finance,72.5,73.7,7.47,0,87,68,75,79,"Excel, Finance",Advanced,3,Good,No,0,1,83,73,Yes,Yes,Business Analyst
+STU044,Avni Mehta,MBA,Marketing,76.1,70.4,8.08,0,86,83,70,78,"Excel, Marketing",Intermediate,2,Basic,Yes,5,1,84,86,Yes,Yes,Marketing Analyst
+STU045,Rohit Nair,B.Tech,Computer Engineering,64,71.9,7.68,0,92,73,72,76,"Java, SQL",Advanced,4,Good,Yes,6,1,86,74,Yes,Yes,Data Analyst
+STU046,Kiran Patil,B.Tech,Information Technology,70,68.9,7.66,1,87,79,62,70,"Python, Java, SQL",Intermediate,2,Good,Yes,3,2,88,79,Yes,Yes,Software Developer
+STU047,Tushar Gupta,B.E.,Mechanical Engineering,64,70.5,7.49,0,84,74,70,75,"SolidWorks, AutoCAD",Intermediate,4,Good,Yes,4,1,87,73,Yes,Yes,Production Engineer
+STU048,Pallavi Joshi,B.E.,Civil Engineering,55,50.5,6.42,2,68,51,49,59,"AutoCAD, Revit",Intermediate,0,Basic,No,0,0,67,62,No,Yes,Civil Engineer
+STU049,Vivek Sharma,B.Tech,Electronics,59.7,67.2,6.92,3,68,45,58,61,"C, PLC",Intermediate,1,Basic,No,0,1,50,46,Yes,Yes,Electronics Engineer
+STU050,Nisha Rao,BCA,Computer Applications,78.9,74.6,8.48,0,90,84,84,94,"Python, Java",Advanced,5,Excellent,Yes,6,2,91,85,Yes,Yes,Software Developer
