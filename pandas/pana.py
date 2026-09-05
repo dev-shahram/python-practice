@@ -2,7 +2,7 @@ import pandas as pd
 
 data = {
     "name": ["Sharam", "ali", "ahmad", "khan"],
-    "age": [25, 30, 35, 90],
+    "age": [25, 30, 35, 80],
     "class": ["A", "B", "C", "D"]
 }
 
