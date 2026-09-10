@@ -47,8 +47,8 @@ k=np.array([1,2,3],dtype=float)
 
 #11.	Predict the shape and size of np.ones((4, 2, 3)) before running it.
 
-#may be shape is 2 dimential and and size is 8 
+#may be shape is 4,2,3 and and size is 24 
 
-u=np.ones((4,2,8))
+u=np.ones((4,2,3))
 print(u.shape)
 print(u.size)
