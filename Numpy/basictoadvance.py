@@ -322,3 +322,6 @@ data = np.array([10, 20, 30, 40, 50, 60, 70, 80, 90])
 normalized = (data - np.mean(data)) / np.std(data)
 print("Normalized Data:\n", normalized)
 print("Transformed Mean (close to 0):", np.mean(normalized))
+
+
+print("All tasks completed successfully.")
