@@ -3,7 +3,7 @@
 #now we talk about static and dynamic binding. Static binding is a feature of some programming languages where the method to be called is determined at compile time based on the type of the object. This means that the method to be called is determined by the type of the reference variable, not the type of the object it refers to.
 #now we talk about dynamic binding. Dynamic binding is a feature of some programming languages where the method to be called is determined at runtime based on the type of the object. This means that the method to be called is determined by the type of the object, not the type of the reference variable.
 
-#dynamic binding:
+#dynamic binding :
 
 a=5
 print(type(a)) 
