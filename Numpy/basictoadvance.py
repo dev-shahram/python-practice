@@ -1,7 +1,7 @@
 from ast import Add
 
 import numpy as np
-#1.	Create a list [1, 2, 3] and multiply it by 3. What happens?
+#1.	Create a list [1, 2,  3] and multiply it by 3. What happens?
 list=[1,2,3]
 #print(list*3)
 
